@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMate AI",
+  "description": "An intelligent academic research assistant for literature review, paper comparison, concept explanation, and bibliography synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
